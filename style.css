@@ -10,6 +10,7 @@ body{
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
+    background-color: RGB(0,0,0)
 }
 
 li{
@@ -19,6 +20,11 @@ li{
 h1{
     font-size: 32px;
     text-align: center;
+    color: RGB(255,255,0)
+}
+
+h2{
+    font-size: 16px;
 }
 
 .post{
